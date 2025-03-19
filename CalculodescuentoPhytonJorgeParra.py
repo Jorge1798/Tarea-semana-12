@@ -25,6 +25,6 @@ def main():
     print(f"Descuento del {porcentaje_descuento_2}%: ${descuento_2:.2f}")
     print(f"Monto final a pagar: ${monto_final_2:.2f}")
 
-# Llamamos a la función principal:
+# Llamamos a la función principal
 if __name__ == "__main__":
     main()
