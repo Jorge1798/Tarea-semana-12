@@ -1,4 +1,4 @@
-# Definimos la clase base para todos los personajes
+# Definimos la clase base para todos los personajes.
 class Personaje:
     def __init__(self, nombre, fuerza, inteligencia, defensa, vida):
         # Atributos comunes a todos los personajes
